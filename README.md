@@ -8,6 +8,7 @@ I am Pasindu Rathnayake, from Colombo, Sri Lanka who is an .Net Full Stack Devel
 - 📫 How to reach me: [@linkedin](https://www.linkedin.com/in/pasindu-shalinda-3075a398/)
 
 - ![Pasindushalinda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pasindushalinda&show_icons=true&include_all_commits=true)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadlawand087&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 **Programming Languages and Tools 🌐**
 
