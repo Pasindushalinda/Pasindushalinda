@@ -2,8 +2,7 @@
 
 I am Pasindu Rathnayake, from Colombo, Sri Lanka who is an .Net Full Stack Developer 🚀
 
-- 🔭 I’m currently working on .Net Full Stack Developer [@DMS](https://www.dmsswe.com/);
-- 🌱 I’m currently learning Docker;
+- 🌱 I’m currently learning Flutter;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@linkedin](https://www.linkedin.com/in/pasindu-shalinda-3075a398/)
 
